@@ -1,0 +1,14 @@
+.borderless td, .borderless th {
+    border: none;
+}
+table td input {
+ width: 100%;   
+}
+
+.centerText
+    {
+        padding: 30px 0;
+        font-size: 16px;
+        /*border:solid 1px #000;*/
+        text-align: center;
+    }

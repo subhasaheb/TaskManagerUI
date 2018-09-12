@@ -1,0 +1,149 @@
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\ApplicationInsights.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csi.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csi.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.AppContext.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Helpers.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Mvc.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Razor.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Optimization.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Helpers.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Mvc.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Razor.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Optimization.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.csprojResolveAssemblyReference.cache
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.csprojResolveAssemblyReference.cache
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\obj\Debug\Task.API.Tests.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\ApplicationInsights.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.Tests.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Net.Http.Formatting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Helpers.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.WebHost.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Mvc.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Razor.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Optimization.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.API.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Net.Http.Formatting.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Helpers.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.WebHost.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Mvc.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Razor.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Optimization.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\System.Web.Http.Cors.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Business.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\Task.Data.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.exe.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csc.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csi.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\csi.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.AppContext.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.exe.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\vbc.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config

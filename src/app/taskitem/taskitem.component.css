@@ -1,0 +1,13 @@
+
+
+input[type='text'].ng-invalid{
+    border-left: 4px solid #900;
+}
+
+input[type='text'].ng-valid{
+    border-left: 4px solid #090;
+}
+
+.error{
+    color: #b00;
+}

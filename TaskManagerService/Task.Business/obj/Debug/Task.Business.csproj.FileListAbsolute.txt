@@ -1,0 +1,41 @@
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.csprojResolveAssemblyReference.cache
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Business.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Data.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.csprojResolveAssemblyReference.cache
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\obj\Debug\Task.Business.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Newtonsoft.Json.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Net.Http.Formatting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Web.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Web.Http.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Web.Http.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\Newtonsoft.Json.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Net.Http.Formatting.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Web.Http.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Business\bin\Debug\System.Web.Http.Cors.xml

@@ -1,0 +1,187 @@
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\ApplicationInsights.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csi.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csi.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.AppContext.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Collections.Immutable.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.IO.FileSystem.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Reflection.Metadata.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.rsp
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\VBCSCompiler.exe
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\VBCSCompiler.exe.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Antlr3.Runtime.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.SqlServer.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.DependencyCollector.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Web.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.WindowsServer.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.ApplicationInsights.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.Web.Infrastructure.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Newtonsoft.Json.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Net.Http.Formatting.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Helpers.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.WebHost.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Mvc.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Optimization.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Razor.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Deployment.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Razor.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\WebGrease.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.SqlServer.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Newtonsoft.Json.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Net.Http.Formatting.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Helpers.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.WebHost.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Mvc.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Optimization.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Razor.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Deployment.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Razor.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Antlr3.Runtime.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.ApplicationInsights.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.DependencyCollector.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.WindowsServer.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Web.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.csprojResolveAssemblyReference.cache
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Cors.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.Cors.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.Cors.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\ApplicationInsights.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.exe.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csc.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csi.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\csi.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.AppContext.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Collections.Immutable.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.IO.FileSystem.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\System.Reflection.Metadata.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.exe.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\vbc.rsp
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\VBCSCompiler.exe
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\roslyn\VBCSCompiler.exe.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.API.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Antlr3.Runtime.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.SqlServer.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.DependencyCollector.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Web.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.WindowsServer.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.ApplicationInsights.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.Web.Infrastructure.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Newtonsoft.Json.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Net.Http.Formatting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Helpers.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.WebHost.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Mvc.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Optimization.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Razor.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Deployment.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Razor.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\WebGrease.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Business.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Entity.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\EntityFramework.SqlServer.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Net.Http.Formatting.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.Cors.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Newtonsoft.Json.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Helpers.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Http.WebHost.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Mvc.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Optimization.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.Razor.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Deployment.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Web.WebPages.Razor.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Antlr3.Runtime.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.ApplicationInsights.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.DependencyCollector.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.WindowsServer.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Microsoft.AI.Web.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Task.Data.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.csprojResolveAssemblyReference.cache
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\obj\Debug\Task.API.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Castle.Core.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Moq.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Threading.Tasks.Extensions.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.ValueTuple.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Castle.Core.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Moq.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\Moq.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.Threading.Tasks.Extensions.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.API\bin\System.ValueTuple.xml

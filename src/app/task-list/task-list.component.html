@@ -1,0 +1,77 @@
+<h1>View Task
+  <button class="btn btn-success btn-circle pull-right" 
+          (click)="add()"     
+          title="Add Task">
+    <i class="glyphicon glyphicon-plus"></i>
+  </button>
+</h1>
+
+<div class="alert-danger">{{errorMessage}}</div>
+
+<!--<div class="input-group">
+    <input type="text" class="form-control" 
+            placeholder="Search" 
+            aria-describedby="basic-addon1">
+    <span class="input-group-addon" id="basic-addon1">Search</span>
+</div> -->
+
+<div class="container">
+<table class="table borderless">
+    <tr>
+        <td colspan="2"><b>Name:</b></td>
+        <td colspan="2"><input type="text" [(ngModel)] = "taskNameSearch"></td>
+        <td colspan="2"><b>Parent Task:</b></td>
+        <td colspan="2"><input type="text" [(ngModel)] = "parentTaskNameSearch"></td>
+    </tr>
+     <tr>
+         <td><b> Form:</b></td>
+        <td><input type="text" [(ngModel)] = "priorityFromSearch"></td>
+        <td><b>Priority To:</b></td>
+        <td><input type="text" [(ngModel)] = "priorityToSearch"></td>
+        <td><b>Start Date:</b></td>
+        <td><input type="text" [(ngModel)] = "startDateSearch"></td>
+        <td><b>End Date:</b></td>
+        <td><input type="text" [(ngModel)] = "endDateSearch"></td>
+    </tr>
+</table>
+</div>
+
+ <hr>
+<table class="table borderless" style="width:100%">
+    <thead>
+        <tr>
+            <th>Task</th>
+            <th>Parent</th>
+            <th>Priority</th>
+            <th>Start</th>
+            <th>End</th>     
+            <th></th>       
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let task of taskList | taskSearch : taskNameSearch : parentTaskNameSearch : priorityFromSearch : priorityToSearch : startDateSearch : endDateSearch">
+            <td width="25%">
+                <div  class="centerText" style="background-color:lightgrey; display: block; height: 80px" >
+                   <span > {{task?.TaskName}}</span>
+                </div>
+            </td>
+            <td width="25%">
+                <div  class="centerText" style="background-color:lightgrey; display: block; height: 80px" >
+                   <span > {{task?.ParentTaskName}}</span>
+                </div>
+            </td>
+            <!--<td width="25%">{{task?.ParentTaskName}}</td>-->
+            <td width="10%">{{task?.Priority}}</td>
+            <td width="10%">{{task?.StartDate | date: 'yyyy-MM-dd'}}</td>
+            <td width="10%">{{task?.EndDate | date : 'yyyy-MM-dd'}}</td>
+            <td width="20%">
+                <button (click)="edit(task.TaskID)" [disabled]="checkButtoncon(task)" style="margin-left :5px" >Edit</button>
+                <button (click)="endTask(task.TaskID)" [disabled]="checkButtoncon(task)" style="margin-left :8px" >End Task</button>
+                <!--<i class="glyphicon glyphicon-edit pointer" [disabled]="checkButtoncon(task)" 
+                   (click)="edit(task.TaskID)" title="Edit"></i>-->
+                <!--<i class="glyphicon glyphicon-trash pointer"    
+                    (click)="endTask(task.TaskID)" title="End Task"></i>                -->
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,38 @@
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.pdb
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.dll
+H:\Code\Angular 2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.SqlServer.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Task.Entity.dll.config
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\EntityFramework.SqlServer.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.csprojResolveAssemblyReference.cache
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.pdb
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.Migrations.InitialCreate.resources
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.csproj.GenerateResource.Cache
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\obj\Debug\Task.Data.Migrations.initial.resources
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Newtonsoft.Json.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Net.Http.Formatting.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Web.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Web.Http.Cors.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Web.Http.dll
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\Newtonsoft.Json.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Net.Http.Formatting.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Web.Http.xml
+H:\Code\Angular2\FSE\TaskManager\TaskManagerService\Task.Data\bin\Debug\System.Web.Http.Cors.xml
