@@ -1,3 +1,12 @@
+import { Component, OnInit } from '@angular/core';
+import {Router, ActivatedRoute} from '@angular/router';
+import {FormsModule } from '@angular/forms';
+
+import {TaskService} from '../task.service';
+// import {Router,ActivatedRoute} from '@angular/router';
+// import {HttpClientModule} from '@angular/common/http';
+import {TaskDetals} from '../Models/TaskDetail';
+
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { TaskListComponent } from './task-list.component';
@@ -19,7 +28,7 @@ describe('TaskListComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+  // it('should create the task list', () => {
+  //   expect(component).toBeTruthy();
+  // });
 });
